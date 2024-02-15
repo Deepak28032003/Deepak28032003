@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Prasad Gupta</h1>
 <h3 align="center">Breaking the flow by analyzing the data</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" align="right" width=350px >
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" align="right" width=250px >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak28032003&label=Profile%20views&color=0e75b6&style=flat" alt="deepak28032003" /> </p>
 
