@@ -1,3 +1,5 @@
+![banner](https://github.com/Deepak28032003/Deepak28032003/blob/0e6b5168fd63d61b16c3742d1860e2ec0e9f1fda/Deepak-git%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Deepak Prasad Gupta</h1>
 <h3 align="center">Breaking the flow by analyzing the data</h3>
 
